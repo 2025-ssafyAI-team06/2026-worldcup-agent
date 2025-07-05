@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,visualstudiocode,node
 
+.env*
+
 ### Linux ###
 *~
 
