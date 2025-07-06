@@ -72,7 +72,8 @@
 ![llmarc](https://github.com/user-attachments/assets/a5d5b06b-4ed3-40b6-b7b4-a1767f2cc467)
 
 ## 🎬 Production Video
-![productionvideo](https://github.com/user-attachments/assets/05deffa2-864b-431a-9141-fcec5cd556c1)
+
+https://github.com/user-attachments/assets/68631e53-5d19-4860-8ac5-740165c3f0aa
 
 ## 🚀 Backend Configuration
 ```
@@ -100,6 +101,7 @@ https://drive.google.com/file/d/1iPpchJEP-YvjEGctyG-bauBizR9zHkZ0/view?usp=shari
 psql -U {your_rdb_user} -d {your_rdb_name} -f {download_files}.sql
 ```
 ---
+
 
 #### 2. 환경 변수 설정
 
