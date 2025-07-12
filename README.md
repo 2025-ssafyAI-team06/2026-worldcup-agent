@@ -1,8 +1,8 @@
 
 ## ⚽ 2026 북중미 월드컵 통합 정보 챗봇 
 
-### https://2026-worldcup-agent-frontend.vercel.app/
-
+> ### ~~https://2026-worldcup-agent-frontend.vercel.app/~~
+> 현재 운영이 종료되어 서버를 반납한 상태입니다.
 ![image](https://github.com/user-attachments/assets/0b643c1e-e330-4f1c-b8b4-740aa42751dc)
 
 
